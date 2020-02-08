@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dd3333</color>
+    <color name="colorPrimaryDark">#d11616</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorFlower">#ffce54</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorGrass">#ffce54</color>
+    <color name="colorFlowerDark">#f6b482</color>
+    <color name="colorGrassDark">#8cc512</color>
+    <color name="colorAqua">#48cfad</color>
+    <color name="colorBlueJeans">#509fce</color>
+    <color name="colorLavender">#ac92ec</color>
+    <color name="colorPinkRose">#ec87c0</color>
+    <color name="colorMint">#48cfad</color>
+</resources>

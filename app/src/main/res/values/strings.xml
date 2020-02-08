@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Evote</string>
+    <string name="not_register">not_register</string>
+    <string name="send_otp">send_otp</string>
+    <string name="sendotp">Send OTP</string>
+    <string name="enter_your_full_name">Enter Your Full Name</string>
+    <string name="enter_your_aadhaar_number">Enter Your Aadhaar Number</string>
+    <string name="enter_your_contact_number">Enter Your Contact Number</string>
+    <string name="enter_your_e_mail_id">Enter Your E-Mail Id</string>
+    <string name="enter_your_date_of_birth">Enter Your Date Of Birth</string>
+    <string name="invalid_name">Invalid name</string>
+    <string name="invalid_aadharcard_no">invalid aadhar number</string>
+    <string name="invalid_mobile">invalid mobile number</string>
+    <string name="invalid_emailid">invalid emailid</string>
+</resources>
